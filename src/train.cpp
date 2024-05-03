@@ -1,5 +1,5 @@
 // Copyright 2021 NNTU-CS
-#include "Train.h"
+#include "../include/Train.h"
 
 Train::Train() : countOp(0), first(nullptr) {}
 
